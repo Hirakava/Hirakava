@@ -1,3 +1,25 @@
+# Hirakava
+# Lincoln Hideo Hirakava
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/hirakava)](https://github.com/hirakava)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnhirakava/)](https://www.linkedin.com/in/lincolnhirakava/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hirakavalincoln/)](https://www.instagram.com/hirakavalincoln/)
+
+
+💬 Sobre Mim
+
+IT professional for over 15 years focused on Infrastructure, working on the main IT market technologies.
+
+Currently in transition to Development, using the main market technologies for FullStack profiling.
+
+Placed on São Paulo, Brazil.
+
+
+
+## Visitors
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=hirakava)
+
 ### Hi there 👋
 
 <!--
