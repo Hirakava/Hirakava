@@ -9,12 +9,13 @@
 
 
 
-💬 Sobre Mim
+💬 About Me
 
 IT professional for over 15 years focused on Infrastructure, working on the main IT market technologies.
 
 Currently in transition to Development, using the main market technologies for FullStack profiling.
 
+��🚀💚💙
 Placed on São Paulo, Brazil.
 
 
