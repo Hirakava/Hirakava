@@ -17,6 +17,7 @@ Currently in transition to Development, using the main market technologies for F
 
 🚀💚💙
 🇧🇷
+🇧🇷
 Placed on São Paulo, Brazil.
 
 
@@ -24,10 +25,10 @@ Placed on São Paulo, Brazil.
 ## Visitors
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=hirakava)
-
+<!--
 ### Hi there 👋
 
-<!--
+
 **Hirakava/Hirakava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
