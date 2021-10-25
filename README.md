@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=gray&link=https://github.com/hirakava)](https://github.com/hirakava)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnhirakava/)](https://www.linkedin.com/in/lincolnhirakava/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hirakavalincoln/)](https://www.instagram.com/hirakavalincoln/)
-[![Microsoft Badge](https://img.shields.io/badge/-twitter-C13584?style=for-the-badge&labelColor=blue&logo=twitter&logoColor=white&link=https://docs.microsoft.com/pt-br/users/hirakava)](https://docs.microsoft.com/pt-br/users/hirakava)
+[![Microsoft Badge](https://img.shields.io/badge/-twitter-C13584?style=for-the-badge&labelColor=blue&logo=Microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/hirakava)](https://docs.microsoft.com/pt-br/users/hirakava)
 
 
 
