@@ -24,7 +24,7 @@ Placed on São Paulo, Brazil.
 
 ## Visitors
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=hirakava)
+
 <!--
 ### Hi there 👋
 
